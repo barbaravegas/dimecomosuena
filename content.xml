@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260406183028KNQ4BY</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260406183028J4W59Z</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Dime cómo suenas y te diré quién eres</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Bárbara Vegas Flor</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775489068103</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>ceb1b970-80d3-45d5-b185-16ad74184a3e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Dime cómo suenas y te diré quién eres</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Dime cómo suenas y te diré quién eres</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Dime cómo suenas y te diré quién eres</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>ceb1b970-80d3-45d5-b185-16ad74184a3e</odePageId>
+      <odeBlockId>block-1775489920855-wcxfl4hlx</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>ceb1b970-80d3-45d5-b185-16ad74184a3e</odePageId>
+          <odeBlockId>block-1775489920855-wcxfl4hlx</odeBlockId>
+          <odeIdeviceId>idevice-1775489920853-uxqnq9re0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table style="width: 70.7753%;">
+<tbody>
+<tr>
+<td style="width: 44.523%;">
+<p><b>TEMPORALIZACIÓN</b></p>
+</td>
+<td style="width: 28.6219%;">
+<p><span style="font-weight: 400;">ABRIL/MAYO</span></p>
+</td>
+<td style="width: 18.5512%;">
+<p><b>S.A.</b></p>
+</td>
+<td style="width: 8.48057%;">
+<p><span style="font-weight: 400;">5º</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 44.523%;">
+<p><b>Nº SESIONES</b></p>
+</td>
+<td style="width: 28.6219%;">
+<p><span style="font-weight: 400;">6</span></p>
+</td>
+<td style="width: 18.5512%;">
+<p><b>CURSO</b></p>
+</td>
+<td style="width: 8.48057%;">
+<p><span style="font-weight: 400;">5º</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="1" style="width: 100.03%; border-style: none;">
+<tbody>
+<tr>
+<td style="width: 26.5516%;"><strong>ÁREA </strong></td>
+<td style="width: 73.4181%;">Educación Artística</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 59.782%;">
+<tbody>
+<tr>
+<td style="width: 40.3529%;">
+<p><b>RELACIÓN CON OTRAS ÁREAS</b></p>
+</td>
+<td style="width: 59.5964%;">
+<p><span style="font-weight: 400;">Lengua, Ciencias Sociales</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td>
+<p><b>AGRUPAMIENTOS Y ORGANIZACIÓN ESPACIAL</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Gran grupo: aula de 5º</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Equipos flexibles: aula de 5º y biblioteca</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td>
+<p><b>PRODUCTO FINAL</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Creación de una infografía que explique la sinfonía de los adioses y mostrarla al grupo que tutoriza (3º de Primaria), en el contexto del proyecto TEI.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Creación de un vídeo sobre los instrumentos de la orquesta.</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td>
+<p><b>HERRAMIENTAS TECNOLÓGICAS UTILIZADAS</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"> Canva </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"> Teams</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"> Audacity</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Minicroma</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Youtube </span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775489920853-uxqnq9re0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table style=\"width: 70.7753%;\">\n<tbody>\n<tr>\n<td style=\"width: 44.523%;\">\n<p><b>TEMPORALIZACIÓN</b></p>\n</td>\n<td style=\"width: 28.6219%;\">\n<p><span style=\"font-weight: 400;\">ABRIL/MAYO</span></p>\n</td>\n<td style=\"width: 18.5512%;\">\n<p><b>S.A.</b></p>\n</td>\n<td style=\"width: 8.48057%;\">\n<p><span style=\"font-weight: 400;\">5º</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 44.523%;\">\n<p><b>Nº SESIONES</b></p>\n</td>\n<td style=\"width: 28.6219%;\">\n<p><span style=\"font-weight: 400;\">6</span></p>\n</td>\n<td style=\"width: 18.5512%;\">\n<p><b>CURSO</b></p>\n</td>\n<td style=\"width: 8.48057%;\">\n<p><span style=\"font-weight: 400;\">5º</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"1\" style=\"width: 100.03%; border-style: none;\">\n<tbody>\n<tr>\n<td style=\"width: 26.5516%;\"><strong>ÁREA </strong></td>\n<td style=\"width: 73.4181%;\">Educación Artística</td>\n</tr>\n</tbody>\n</table>\n<table style=\"width: 59.782%;\">\n<tbody>\n<tr>\n<td style=\"width: 40.3529%;\">\n<p><b>RELACIÓN CON OTRAS ÁREAS</b></p>\n</td>\n<td style=\"width: 59.5964%;\">\n<p><span style=\"font-weight: 400;\">Lengua, Ciencias Sociales</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<table>\n<tbody>\n<tr>\n<td>\n<p><b>AGRUPAMIENTOS Y ORGANIZACIÓN ESPACIAL</b></p>\n</td>\n</tr>\n<tr>\n<td>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Gran grupo: aula de 5º</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Equipos flexibles: aula de 5º y biblioteca</span></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<table>\n<tbody>\n<tr>\n<td>\n<p><b>PRODUCTO FINAL</b></p>\n</td>\n</tr>\n<tr>\n<td>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Creación de una infografía que explique la sinfonía de los adioses y mostrarla al grupo que tutoriza (3º de Primaria), en el contexto del proyecto TEI.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Creación de un vídeo sobre los instrumentos de la orquesta.</span></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<table>\n<tbody>\n<tr>\n<td>\n<p><b>HERRAMIENTAS TECNOLÓGICAS UTILIZADAS</b></p>\n</td>\n</tr>\n<tr>\n<td>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\"> Canva </span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\"> Teams</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\"> Audacity</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Minicroma</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Youtube </span></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775488984369-t14rmh2bf</odePageId>
+  <odeParentPageId>ceb1b970-80d3-45d5-b185-16ad74184a3e</odeParentPageId>
+  <pageName>Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775488984369-t14rmh2bf</odePageId>
+      <odeBlockId>block-1775490225725-lypdze9v5</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775488984369-t14rmh2bf</odePageId>
+          <odeBlockId>block-1775490225725-lypdze9v5</odeBlockId>
+          <odeIdeviceId>idevice-1775490225723-mqdiox4d6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table>
+<tbody>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Esta situación de aprendizaje permite desarrollar la escucha activa, la comprensión del lenguaje musical y la expresión artística, fomentando al mismo tiempo el pensamiento crítico, la empatía y la creatividad. La obra elegida conecta la música con un contexto histórico y una intención comunicativa clara, favoreciendo el aprendizaje significativo.</span></p>
+<p><span style="font-weight: 400;">Por otro lado, la preparación de un producto musical audiovisual conjunto contribuye al trabajo colectivo y la conciencia del papel que cada participante debe poner en marcha para llegar  a un resultado conjunto óptimo.</span></p>
+<br />
+<p><span style="font-weight: 400;">Los objetivos didácticos se concretan en:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Comprender que la música puede transmitir ideas y mensajes y puede contribuir a la resolución de conflictos.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Escuchar de forma activa una obra musical identificando cambios de intensidad y textura.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Representar actividades musicales colectivas, utilizando herramientas tecnológicas.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Identificar los instrumentos de la orquesta, distinguiendo entre cuerda frotada/viento madera/viento metal y perusión; además del timbre agudo/grave.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Comprender y disfrutar de diferentes manifestaciones artísticas.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Acercarse a la figura de Joseph Haydn y su obra.</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td>
+<p><b>JUSTIFICACIÓN DE SU DESARROLLO</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">El aprendizaje de los instrumentos de la orquesta no debe ser una simple lista de nombres y fotos, sino una experiencia sensorial y analítica. Su desarrollo se justifica por:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Patrimonio Cultural:</b><span style="font-weight: 400;"> La orquesta sinfónica es una de las formaciones más complejas y representativas de la música occidental. Conocerla permite al alumnado comprender la evolución del arte y la tecnología (desde la caña hasta la válvula).</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Educación Auditiva:</b><span style="font-weight: 400;"> Sirve como vehículo perfecto para desarrollar el oído, permitiendo distinguir matices, texturas y planos sonoros.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Alfabetización Musical:</b><span style="font-weight: 400;"> Entender la clasificación técnica (viento, cuerda, percusión) ayuda a organizar el pensamiento lógico y la capacidad de categorización.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Conexión Curricular:</b><span style="font-weight: 400;"> Permite trabajar de forma transversal con la física (acústica), la historia (contextos sociales de los instrumentos) y la educación plástica (diseño y formas).</span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><b>IMPACTO ESPERADO</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Se busca que el alumnado pase de ser un oyente pasivo a uno </span><b>crítico y consciente</b><span style="font-weight: 400;">:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Apreciación Estética:</b><span style="font-weight: 400;"> El impacto principal es que el alumno sea capaz de disfrutar de un concierto o una banda sonora identificando qué familia o instrumento está llevando el peso emocional de la obra.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Desarrollo del Pensamiento Crítico:</b><span style="font-weight: 400;"> Al comprender la función de cada sección (la base rítmica, la melodía de los violines, el brillo de los metales), el alumnado entiende el concepto de </span><b>trabajo colaborativo</b><span style="font-weight: 400;"> y jerarquía sonora.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Fomento de la Creatividad:</b><span style="font-weight: 400;"> Conocer las posibilidades sonoras de cada instrumento motiva al alumnado a experimentar con la creación propia, ya sea mediante instrumentos virtuales (DAWs) o interpretación física.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Inclusión:</b><span style="font-weight: 400;"> El uso de metodologías activas (como el "aprendizaje basado en el juego" o audiciones activas) garantiza que todo el alumnado, independientemente de su formación técnica previa, pueda conectar con la música.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Además, al integrar la creación de productos digitales mediante tecnología, el impacto esperado trasciende lo musical para enfocarse en el "saber hacer", con resultados como:</span></p>
+<p><span style="font-weight: 400;">1. Empoderamiento y Creatividad (</span></p>
+<p><span style="font-weight: 400;">El mayor impacto es el cambio de rol: el alumnado deja de ser un consumidor pasivo para convertirse en </span><b>creador</b><span style="font-weight: 400;">. Al usar herramientas tecnológicas, entienden que la tecnología es un medio para expresar sus propias ideas musicales, lo que aumenta radicalmente su motivación.</span></p>
+<p><span style="font-weight: 400;">2. Desarrollo de la Competencia Digital</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Aprenden el manejo de software específico.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Desarrollan la gestión de archivos, el respeto por los derechos de autor (licencias Creative Commons) y la ética en la red.</span></li>
+</ul>
+<p><span style="font-weight: 400;">4. Aprendizaje Colaborativo y Profesionalizador: al trabajar en productos concretos, el aula funciona como un </span><b>estudio de producción</b><span style="font-weight: 400;">:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Roles:</b><span style="font-weight: 400;"> Se reparten tareas (grupo video y grupo audio).</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Resultado tangible:</b><span style="font-weight: 400;"> Tener un producto final compartido genera un sentimiento de orgullo y pertenencia que refuerza el aprendizaje significativo.</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775490225723-mqdiox4d6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table>\n<tbody>\n<tr>\n<td>\n<p><span style=\"font-weight: 400;\">Esta situación de aprendizaje permite desarrollar la escucha activa, la comprensión del lenguaje musical y la expresión artística, fomentando al mismo tiempo el pensamiento crítico, la empatía y la creatividad. La obra elegida conecta la música con un contexto histórico y una intención comunicativa clara, favoreciendo el aprendizaje significativo.</span></p>\n<p><span style=\"font-weight: 400;\">Por otro lado, la preparación de un producto musical audiovisual conjunto contribuye al trabajo colectivo y la conciencia del papel que cada participante debe poner en marcha para llegar  a un resultado conjunto óptimo.</span></p>\n<br />\n<p><span style=\"font-weight: 400;\">Los objetivos didácticos se concretan en:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Comprender que la música puede transmitir ideas y mensajes y puede contribuir a la resolución de conflictos.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Escuchar de forma activa una obra musical identificando cambios de intensidad y textura.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Representar actividades musicales colectivas, utilizando herramientas tecnológicas.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Identificar los instrumentos de la orquesta, distinguiendo entre cuerda frotada/viento madera/viento metal y perusión; además del timbre agudo/grave.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Comprender y disfrutar de diferentes manifestaciones artísticas.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Acercarse a la figura de Joseph Haydn y su obra.</span></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<table>\n<tbody>\n<tr>\n<td>\n<p><b>JUSTIFICACIÓN DE SU DESARROLLO</b></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-weight: 400;\">El aprendizaje de los instrumentos de la orquesta no debe ser una simple lista de nombres y fotos, sino una experiencia sensorial y analítica. Su desarrollo se justifica por:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>Patrimonio Cultural:</b><span style=\"font-weight: 400;\"> La orquesta sinfónica es una de las formaciones más complejas y representativas de la música occidental. Conocerla permite al alumnado comprender la evolución del arte y la tecnología (desde la caña hasta la válvula).</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>Educación Auditiva:</b><span style=\"font-weight: 400;\"> Sirve como vehículo perfecto para desarrollar el oído, permitiendo distinguir matices, texturas y planos sonoros.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>Alfabetización Musical:</b><span style=\"font-weight: 400;\"> Entender la clasificación técnica (viento, cuerda, percusión) ayuda a organizar el pensamiento lógico y la capacidad de categorización.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>Conexión Curricular:</b><span style=\"font-weight: 400;\"> Permite trabajar de forma transversal con la física (acústica), la historia (contextos sociales de los instrumentos) y la educación plástica (diseño y formas).</span></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td>\n<p><b>IMPACTO ESPERADO</b></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-weight: 400;\">Se busca que el alumnado pase de ser un oyente pasivo a uno </span><b>crítico y consciente</b><span style=\"font-weight: 400;\">:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>Apreciación Estética:</b><span style=\"font-weight: 400;\"> El impacto principal es que el alumno sea capaz de disfrutar de un concierto o una banda sonora identificando qué familia o instrumento está llevando el peso emocional de la obra.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>Desarrollo del Pensamiento Crítico:</b><span style=\"font-weight: 400;\"> Al comprender la función de cada sección (la base rítmica, la melodía de los violines, el brillo de los metales), el alumnado entiende el concepto de </span><b>trabajo colaborativo</b><span style=\"font-weight: 400;\"> y jerarquía sonora.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>Fomento de la Creatividad:</b><span style=\"font-weight: 400;\"> Conocer las posibilidades sonoras de cada instrumento motiva al alumnado a experimentar con la creación propia, ya sea mediante instrumentos virtuales (DAWs) o interpretación física.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>Inclusión:</b><span style=\"font-weight: 400;\"> El uso de metodologías activas (como el \"aprendizaje basado en el juego\" o audiciones activas) garantiza que todo el alumnado, independientemente de su formación técnica previa, pueda conectar con la música.</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Además, al integrar la creación de productos digitales mediante tecnología, el impacto esperado trasciende lo musical para enfocarse en el \"saber hacer\", con resultados como:</span></p>\n<p><span style=\"font-weight: 400;\">1. Empoderamiento y Creatividad (</span></p>\n<p><span style=\"font-weight: 400;\">El mayor impacto es el cambio de rol: el alumnado deja de ser un consumidor pasivo para convertirse en </span><b>creador</b><span style=\"font-weight: 400;\">. Al usar herramientas tecnológicas, entienden que la tecnología es un medio para expresar sus propias ideas musicales, lo que aumenta radicalmente su motivación.</span></p>\n<p><span style=\"font-weight: 400;\">2. Desarrollo de la Competencia Digital</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Aprenden el manejo de software específico.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Desarrollan la gestión de archivos, el respeto por los derechos de autor (licencias Creative Commons) y la ética en la red.</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">4. Aprendizaje Colaborativo y Profesionalizador: al trabajar en productos concretos, el aula funciona como un </span><b>estudio de producción</b><span style=\"font-weight: 400;\">:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>Roles:</b><span style=\"font-weight: 400;\"> Se reparten tareas (grupo video y grupo audio).</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>Resultado tangible:</b><span style=\"font-weight: 400;\"> Tener un producto final compartido genera un sentimiento de orgullo y pertenencia que refuerza el aprendizaje significativo.</span></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775489092625-rxxkjaw75</odePageId>
+  <odeParentPageId>ceb1b970-80d3-45d5-b185-16ad74184a3e</odeParentPageId>
+  <pageName>Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775489092625-rxxkjaw75</odePageId>
+      <odeBlockId>block-1775490399919-dac8a012s</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775489092625-rxxkjaw75</odePageId>
+          <odeBlockId>block-1775490399919-dac8a012s</odeBlockId>
+          <odeIdeviceId>idevice-1775490399919-yluoi7q9r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table style="width: 100.303%; height: 1001.33px; border-style: none;">
+<tbody>
+<tr style="height: 72.6667px;">
+<td style="background-color: #c2e0f4; width: 37.9758%; height: 72.6667px; border-style: solid; border-color: #000000;">
+<p><span style="font-weight: 400;">COMPET. ESPECÍFICAS</span></p>
+</td>
+<td style="background-color: #c2e0f4; width: 50.3013%; height: 72.6667px; border-style: solid; border-color: #000000;">
+<p><span style="font-weight: 400;">CRITERIOS  EVALUACIÓN</span></p>
+</td>
+<td style="background-color: #c2e0f4; width: 11.6927%; height: 72.6667px; border-color: #000000; border-style: solid;">
+<p><span style="font-weight: 400;">DESCRIP. PERFIL SALIDA</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 37.9758%;">
+<p><b>C.E.1. <span style="font-weight: 400;">Descubrir propuestas artísticas de diferentes géneros, estilos, épocas y culturas, a través de la recepción activa, para desarrollar  la curiosidad y el respeto por la diversidad.</span></b></p>
+</td>
+<td style="width: 50.3013%;">
+<p><b>1.2 <span style="font-weight: 400;">Describir manifestaciones  culturales y artísticas, explorando  sus características con actitud  abierta e interés, estableciendo relaciones entre ellas y valorando la  diversidad que las genera.</span></b></p>
+</td>
+<td style="width: 11.6927%;">
+<p><br /></p>
+<p><span style="font-weight: 400;"><br /></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 37.9758%;">
+<p><b><br /></b></p>
+<p><b>C.E.3. </b><span style="font-weight: 400;">Expresar y comunicar de manera creativa ideas, sentimientos y emociones, experimentando con las posibilidades del sonido, la  imagen, el cuerpo y los medios digitales, para producir obras propias. </span></p>
+<p><b><br /></b></p>
+</td>
+<td style="width: 50.3013%;">
+<p><b><br /></b></p>
+<p><b>3.1. </b><span style="font-weight: 400;">Producir obras propias básicas,  utilizando las posibilidades  </span></p>
+<p><span style="font-weight: 400;">expresivas del cuerpo, el sonido, la  imagen y los medios digitales  básicos y mostrando confianza en  las capacidades propias.</span></p>
+<p><b><br /></b></p>
+</td>
+<td style="width: 11.6927%;">
+<p><span style="font-weight: 400;">CCL1, CD2, CPSAA1, CPSAA5, CC2, CE1, CCEC3, CCEC4.</span></p>
+<p><span style="font-weight: 400;">CCL1, CCL5, CP3, STEM3, CC2, CE1, CE3, CCEC3, CCEC4.</span></p>
+<p><span style="font-weight: 400;"><br /></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 37.9758%;">
+<p><b>C.E.4. <span style="font-weight: 400;">Participar en el diseño, la elaboración y la difusión de producciones culturales y artísticas individuales o colectivas, poniendo en  valor el proceso y asumiendo diferentes funciones en la consecución de un resultado final, para desarrollar la creatividad, la noción de  autoría y el sentido de pertenencia. </span></b></p>
+</td>
+<td style="width: 50.3013%;">
+<p><b><br /><br /></b></p>
+<p><b>4.1. </b><span style="font-weight: 400;">Planificar y diseñar producciones culturales y artísticas colectivas, trabajando de forma</span></p>
+<p><span style="font-weight: 400;">cooperativa en la consecución de un resultado final y asumiendo diferentes funciones,</span></p>
+<p><span style="font-weight: 400;">desde la igualdad y el respeto a la diversidad.</span></p>
+<p><b><br /></b></p>
+<p><b>4.2. </b><span style="font-weight: 400;">Participar activamente en el  proceso cooperativo de  </span></p>
+<p><span style="font-weight: 400;">producciones culturales y artísticas,  de forma creativa y respetuosa y  utilizando elementos de diferentes  lenguajes y técnicas artísticas.</span></p>
+<p><b><br /></b></p>
+</td>
+<td style="width: 11.6927%;">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><b>SABERES BÁSICOS</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">BLOQUE A</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Vocabulario específico de las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.</span></li>
+</ul>
+<p><span style="font-weight: 400;">BLOQUE B</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Fases del proceso creativo: planificación, interpretación, experimentación y evaluación.</span></li>
+</ul>
+<p><span style="font-weight: 400;">BLOQUE C</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Estrategias y técnicas de composición de historias audiovisuales desde un enfoque de igualdad, libre de estereotipos de género.</span></li>
+</ul>
+<p><span style="font-weight: 400;">BLOQUE D</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">El carácter, el tempo, el compás, los géneros musicales, la textura, la armonía y la forma.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Práctica instrumental, vocal y corporal: experimentación, exploración creativa, interpretación, improvisación y composición a partir de sus posibilidades sonoras y expresivas.</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775490399919-yluoi7q9r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table style=\"width: 100.303%; height: 1001.33px; border-style: none;\">\n<tbody>\n<tr style=\"height: 72.6667px;\">\n<td style=\"background-color: #c2e0f4; width: 37.9758%; height: 72.6667px; border-style: solid; border-color: #000000;\">\n<p><span style=\"font-weight: 400;\">COMPET. ESPECÍFICAS</span></p>\n</td>\n<td style=\"background-color: #c2e0f4; width: 50.3013%; height: 72.6667px; border-style: solid; border-color: #000000;\">\n<p><span style=\"font-weight: 400;\">CRITERIOS  EVALUACIÓN</span></p>\n</td>\n<td style=\"background-color: #c2e0f4; width: 11.6927%; height: 72.6667px; border-color: #000000; border-style: solid;\">\n<p><span style=\"font-weight: 400;\">DESCRIP. PERFIL SALIDA</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 37.9758%;\">\n<p><b>C.E.1. <span style=\"font-weight: 400;\">Descubrir propuestas artísticas de diferentes géneros, estilos, épocas y culturas, a través de la recepción activa, para desarrollar  la curiosidad y el respeto por la diversidad.</span></b></p>\n</td>\n<td style=\"width: 50.3013%;\">\n<p><b>1.2 <span style=\"font-weight: 400;\">Describir manifestaciones  culturales y artísticas, explorando  sus características con actitud  abierta e interés, estableciendo relaciones entre ellas y valorando la  diversidad que las genera.</span></b></p>\n</td>\n<td style=\"width: 11.6927%;\">\n<p><br /></p>\n<p><span style=\"font-weight: 400;\"><br /></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 37.9758%;\">\n<p><b><br /></b></p>\n<p><b>C.E.3. </b><span style=\"font-weight: 400;\">Expresar y comunicar de manera creativa ideas, sentimientos y emociones, experimentando con las posibilidades del sonido, la  imagen, el cuerpo y los medios digitales, para producir obras propias. </span></p>\n<p><b><br /></b></p>\n</td>\n<td style=\"width: 50.3013%;\">\n<p><b><br /></b></p>\n<p><b>3.1. </b><span style=\"font-weight: 400;\">Producir obras propias básicas,  utilizando las posibilidades  </span></p>\n<p><span style=\"font-weight: 400;\">expresivas del cuerpo, el sonido, la  imagen y los medios digitales  básicos y mostrando confianza en  las capacidades propias.</span></p>\n<p><b><br /></b></p>\n</td>\n<td style=\"width: 11.6927%;\">\n<p><span style=\"font-weight: 400;\">CCL1, CD2, CPSAA1, CPSAA5, CC2, CE1, CCEC3, CCEC4.</span></p>\n<p><span style=\"font-weight: 400;\">CCL1, CCL5, CP3, STEM3, CC2, CE1, CE3, CCEC3, CCEC4.</span></p>\n<p><span style=\"font-weight: 400;\"><br /></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 37.9758%;\">\n<p><b>C.E.4. <span style=\"font-weight: 400;\">Participar en el diseño, la elaboración y la difusión de producciones culturales y artísticas individuales o colectivas, poniendo en  valor el proceso y asumiendo diferentes funciones en la consecución de un resultado final, para desarrollar la creatividad, la noción de  autoría y el sentido de pertenencia. </span></b></p>\n</td>\n<td style=\"width: 50.3013%;\">\n<p><b><br /><br /></b></p>\n<p><b>4.1. </b><span style=\"font-weight: 400;\">Planificar y diseñar producciones culturales y artísticas colectivas, trabajando de forma</span></p>\n<p><span style=\"font-weight: 400;\">cooperativa en la consecución de un resultado final y asumiendo diferentes funciones,</span></p>\n<p><span style=\"font-weight: 400;\">desde la igualdad y el respeto a la diversidad.</span></p>\n<p><b><br /></b></p>\n<p><b>4.2. </b><span style=\"font-weight: 400;\">Participar activamente en el  proceso cooperativo de  </span></p>\n<p><span style=\"font-weight: 400;\">producciones culturales y artísticas,  de forma creativa y respetuosa y  utilizando elementos de diferentes  lenguajes y técnicas artísticas.</span></p>\n<p><b><br /></b></p>\n</td>\n<td style=\"width: 11.6927%;\">\n<p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<table>\n<tbody>\n<tr>\n<td>\n<p><b>SABERES BÁSICOS</b></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-weight: 400;\">BLOQUE A</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Vocabulario específico de las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">BLOQUE B</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Fases del proceso creativo: planificación, interpretación, experimentación y evaluación.</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">BLOQUE C</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Estrategias y técnicas de composición de historias audiovisuales desde un enfoque de igualdad, libre de estereotipos de género.</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">BLOQUE D</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">El carácter, el tempo, el compás, los géneros musicales, la textura, la armonía y la forma.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Práctica instrumental, vocal y corporal: experimentación, exploración creativa, interpretación, improvisación y composición a partir de sus posibilidades sonoras y expresivas.</span></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775489104772-9yjlobqsh</odePageId>
+  <odeParentPageId>ceb1b970-80d3-45d5-b185-16ad74184a3e</odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775489104772-9yjlobqsh</odePageId>
+      <odeBlockId>block-1775491044100-tbtav3u8i</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775489104772-9yjlobqsh</odePageId>
+          <odeBlockId>block-1775491044100-tbtav3u8i</odeBlockId>
+          <odeIdeviceId>idevice-1775491044099-mx0qo479y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table>
+<tbody>
+<tr>
+<td>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Aprendizaje cooperativo</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Aprendizaje basado en retos</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Gamificación</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Aprendizaje por descubrimiento</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Técnicas y dinámicas de grupo</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Explicación gran grupo</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">EduScrum</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775491044099-mx0qo479y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table>\n<tbody>\n<tr>\n<td>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Aprendizaje cooperativo</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Aprendizaje basado en retos</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Gamificación</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Aprendizaje por descubrimiento</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Técnicas y dinámicas de grupo</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Explicación gran grupo</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">EduScrum</span></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775489133818-ou4i6694m</odePageId>
+  <odeParentPageId>ceb1b970-80d3-45d5-b185-16ad74184a3e</odeParentPageId>
+  <pageName>Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775489133818-ou4i6694m</odePageId>
+      <odeBlockId>block-1775491181452-lj24hanfq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775489133818-ou4i6694m</odePageId>
+          <odeBlockId>block-1775491181452-lj24hanfq</odeBlockId>
+          <odeIdeviceId>idevice-1775491181450-69g30llaf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<table>
+<tbody>
+<tr>
+<td>
+<ul>
+<li style="font-weight: 400;" aria-level="1">Esta Situación de Aprendizaje se vincula con los objetivos del programa TEI; tutoría entre iguales </li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775491181450-69g30llaf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<table>\n<tbody>\n<tr>\n<td>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\">Esta Situación de Aprendizaje se vincula con los objetivos del programa TEI; tutoría entre iguales </li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775489159494-txm0a5vej</odePageId>
+  <odeParentPageId>ceb1b970-80d3-45d5-b185-16ad74184a3e</odeParentPageId>
+  <pageName>Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775489159494-txm0a5vej</odePageId>
+      <odeBlockId>block-1775491216907-ak41dx7d0</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775489159494-txm0a5vej</odePageId>
+          <odeBlockId>block-1775491216907-ak41dx7d0</odeBlockId>
+          <odeIdeviceId>idevice-1775491216905-cin571bne</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table>
+<tbody>
+<tr>
+<td>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Asistencia a un concierto de la Orquesta Sinfónica del Principado de Asturias.</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775491216905-cin571bne","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table>\n<tbody>\n<tr>\n<td>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Asistencia a un concierto de la Orquesta Sinfónica del Principado de Asturias.</span></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775489187994-9od3pxuo1</odePageId>
+  <odeParentPageId>ceb1b970-80d3-45d5-b185-16ad74184a3e</odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
